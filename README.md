@@ -1,3 +1,3 @@
 # numerical-integration-class
 
-devcontainer で開いてください
+`devcontainer`で開くことを推奨します
